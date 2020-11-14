@@ -12,3 +12,6 @@ git log --all --decorate --oneline --graph
 
 # abort a commit
 git merge --abort 
+
+# see past commits | checkpoints
+git checkout d42fad
