@@ -21,3 +21,5 @@ git stash list -p
 
 # add stached work to working tree
 git stash apply
+# stashing work i have not commited so i can checkout something else
+git stash
