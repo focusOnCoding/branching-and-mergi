@@ -3,3 +3,4 @@ stop for some time
 so im back at main and it bihed two commits because i worked on the changes in two defarrent branches
 stop for some time
 Then i edited the file when i changed branchs now im in the firstBranch
+Ill stash this chang to save it for late so ia can go checkout a new branch or something else

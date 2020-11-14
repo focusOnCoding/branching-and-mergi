@@ -15,3 +15,9 @@ git merge --abort
 
 # see past commits | checkpoints
 git checkout d42fad
+
+# see whats in the stash
+git stash list -p
+
+# add stached work to working tree
+git stash apply
