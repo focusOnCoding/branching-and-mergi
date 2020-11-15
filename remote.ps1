@@ -35,4 +35,4 @@ git merge upstream/master # merged local ===
 git push origin master
 
 # remote branches
-  
+git remote origin remoteBranchName
